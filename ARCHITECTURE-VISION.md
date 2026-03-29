@@ -94,6 +94,41 @@ Order reflects **active revenue**, **dependencies**, **reuse of IP**, and **orch
 | 7 | **4 Wins Email** | Newsletter production for Robby’s own audience building. |
 | 8 | **Strategic COO (Chief Orchestrator)** | Built **last** — need observed behavior from each agent before the router. The “James” equivalent. |
 
+## Client-Facing Products (Future Revenue Layer)
+
+### Blueprint Implementation Copilot
+
+A **client-facing AI tool**, personalized per client and loaded with their **approved Core Message Blueprint**, **brand voice guide**, and **disallowed language filter**.
+
+**What it does**
+
+- Lets clients check any marketing draft against their Blueprint for alignment, missing beliefs, and off-message language.
+- Generates first drafts anchored to their approved core argument and proof points.
+- Flags messaging drift and suggests corrections using approved language.
+- Maintains consistency without requiring Robby in the room for every marketing decision.
+
+**Note:** This is a simplified, locked-down cousin of the BBCAP agent — preloaded with the approved Blueprint, stripped of strategy-building phases, focused purely on **implementation checking** and **content generation**.
+
+### MRR tiers
+
+| Tier | Price (indicative) | Includes |
+| :--- | :--- | :--- |
+| **Copilot Access Only** | $200–500/mo | Self-serve messaging checks and first-draft generation |
+| **Copilot + Monthly Review** | $500–1,000/mo | Above plus one monthly strategy session to review flags, update proof points, refresh Blueprint |
+| **Full Partnership** | $1,500–3,500/mo | Above plus active strategic advisory — Copilot becomes a tool **within** the existing retainer |
+
+### Strategic value
+
+Creates a **productized retention layer** for clients who complete a sprint but are not ready for a full partnership. Addresses the main **post-engagement failure mode**: clients drift from their Blueprint because they do not have Robby in the room for every decision. **Extends value without extending time.**
+
+### Infrastructure dependencies
+
+Requires **BBCAP** (done), **COO-per-client template**, **CPCI** for instruction quality, and at least one **client beta** — **Amy Fulmer** is the ideal candidate (post-sprint, in implementation, high trust).
+
+### Build position
+
+Ship **after Headliner Pro** (internal build order #6) and **before Strategic COO** (Chief Orchestrator, #8). **Do not build** until the delivery system is solid — **factory before showroom.** Sequencing relative to **4 Wins Email** (#7) can follow revenue priority; Copilot is a client retention surface, not a shortcut around a stable internal agent stack.
+
 ## What Makes This System One of One
 
 - **Proprietary methodology** encoded as persistent AI agents.
