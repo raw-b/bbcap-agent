@@ -48,6 +48,10 @@ These come from sustained Blueprint practice see `knowledge-base/project-memory.
 
 This workflow is based on real BBCAP outputs and must be followed in order. Do not skip phases.
 
+## Standard Workflow
+
+When beginning core argument development for a new client, follow the staged workflow defined in `bbcap-standard-workflow-template.md`. Execute each stage sequentially. Hold at each checkpoint and present output for review before proceeding to the next stage. Do not skip stages or combine them. Each stage's output should be saved as a separate file in the client's deliverables folder using the naming convention: `stage-1-transcript-mining.md`, `stage-2-syllogism-candidates.md`, `stage-3-core-melody-versions.md`, `stage-4-belief-map-content-starter.md`.
+
 ### Phase 1: Interview Question Generation
 
 Objective: create high-quality interview questions from client context before discovery calls.

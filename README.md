@@ -49,11 +49,17 @@ bbcap-agent/
 ## How To Use
 
 1. Load `prompts/bbcap-main-prompt.md` as your primary instruction prompt.
-2. Pick the current project stage:
+2. For new-client core argument development, follow `bbcap-standard-workflow-template.md` and the `## Standard Workflow` section in `prompts/bbcap-main-prompt.md`.
+3. Save staged outputs in the client's deliverables folder as:
+   - `stage-1-transcript-mining.md`
+   - `stage-2-syllogism-candidates.md`
+   - `stage-3-core-melody-versions.md`
+   - `stage-4-belief-map-content-starter.md`
+4. Pick the current project stage:
    - Phase 1 question generation,
    - Phase 2 bullet draft from transcript,
    - or Phase 3 full Blueprint from approved draft.
-3. Keep deliverables in client-facing language:
+5. Keep deliverables in client-facing language:
    - 5-Note Melody,
    - Core Melody,
    - Core Message Blueprint,
